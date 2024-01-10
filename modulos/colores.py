@@ -1,0 +1,13 @@
+ 
+verde = "\33[32m"
+morado = "\33[35m"
+azul = "\33[34m"
+amarillo = "\33[33m"
+rojo = "\33[31m"
+blanco = "\33[37m"
+negro = "\33[30m"
+cyan = "\33[36m"
+gris_claro = "\33[37m"
+gris_oscuro = "\33[90m"
+rosa = "\33[95m"
+naranja = "\33[38;5;202m"
